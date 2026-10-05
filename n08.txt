@@ -1,0 +1,17 @@
+NFA Design #8 Test 
+- Accepted strings:
+010	
+0110	
+01010	
+011110	
+01001110
+
+- Rejected strings:
+ε
+0	
+01
+10	
+011
+0100
+0100	
+00110	
