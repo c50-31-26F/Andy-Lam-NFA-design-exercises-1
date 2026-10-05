@@ -1,1 +1,7 @@
-# NFA-design-exercises-1
+# Summary of my learning
+
+## 1. Which problem(s) gave you the most trouble? Did you avoid any problem that is too challenging to finish by deadline? Did you ask questions to AI/instructor?
+### The problem that gave me the most trouble would most likely have to be understanding the wording for problems 17 and 19. They differ only slightly, but because of that change, it made me question a lot of things. I even asked AI to describe the differences so I can get a better look. It also really reinforced what we learned about how every DFA is a NFA, but not the other way around.
+
+## 2. Which problem(s) surprised you with a "gold-st-ring"? Which next state(s) did you not account for in the subset of next states? why? How to make sure you avoid such errors in your future flight/traffic/compiler/state controller tasks, or in the near future, the course projects/exams?
+### A problem that really surprised me would have to be problem 8. Looking at it during class wasn't too hard and was pretty reasonable when the professor explained it, but when drawing the tree, it really surprised me that I didn't account for a branch. This mistake was because I overlooked it and probably went a little too fast, which is why I'll go slower when approaching tree problems in the future. 
