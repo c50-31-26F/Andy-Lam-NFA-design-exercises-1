@@ -1,0 +1,15 @@
+NFA Design #12 Test
+- Accepted strings:
+111
+0111
+1110
+10101
+0100101000
+
+- Rejected strings:
+ε
+11
+1111
+0000
+0110
+101011
